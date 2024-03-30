@@ -1,0 +1,8 @@
+{
+  "mixinConfigs": [
+    "example.mixins.json"
+  ],
+  "entrypoints": [
+    "maxstats.weave.Entrypoint"
+  ]
+}
